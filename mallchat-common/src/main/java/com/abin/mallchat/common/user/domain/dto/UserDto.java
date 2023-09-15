@@ -13,9 +13,4 @@ public class UserDto {
     private Integer id;
     private Integer age;
     private String s;
-
-    private String ss;
-
-    private String aa;
-    private String cc;
 }
